@@ -97,7 +97,7 @@
 
 | 下载方式 | 链接 |
 |:-------|:-----|
-| 📥 **百度网盘**（密码 2026） | <待填：百度网盘分享链接> |
+| 📥 **百度网盘**（密码 2026） | [CathayRepair 安装包](https://pan.baidu.com/s/18lzLknW_NIwzvGSM8iN8NQ?pwd=2026) |
 | 🐙 **GitHub Releases** | [CathayRepair v1.0.0](https://github.com/zzhjim02/CathayRepair/releases/tag/v1.0.0)（Assets 里直接下 `CathayRepair.exe`） |
 | 🧰 **便携版（本仓库源码 + runtime）** | 解压后双击 `修复.bat`（自带 `runtime\`） |
 
